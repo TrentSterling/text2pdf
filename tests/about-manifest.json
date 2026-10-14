@@ -1,0 +1,25 @@
+{
+  "repository": "text2pdf",
+  "baseline": "5e6751a589951c80423e0c256b189a1369265640",
+  "sharedRevision": "83dbfb4d8241501012c5ec22be49d79f28ccf6b7",
+  "javascriptSha256": "78e5f1cd0ab28f5361c445cecf6d539664d6ef5a39ceedb5228e2bfca5501bed",
+  "cssSha256": "70723556209736cc1d9e8dff2aa2fb5e68157d6ab0de2983406376baad85a8d0",
+  "bio": "<p>Text2PDF is a plain text editor that exports a PDF. Files stay in your browser and nothing is sent anywhere, which is the whole reason it exists.</p><p>One page, no install. By Tront (Trent Sterling).</p>",
+  "title": "Text2PDF by Tront",
+  "list": "<li><a href=\"https://tront.xyz/splitter/\">Splitter4GPT</a>: Split large text files into chunks that fit into ChatGPT and other language models.</li><li><a href=\"https://tront.xyz/spheres/\">Procedural Packed Texture Generator</a>: Generate procedurally packed tiling textures with a live WebGL shader preview.</li>",
+  "hub": "<a href=\"https://tront.xyz/games/\">All games and tools</a> &middot; <a href=\"https://tront.xyz/blog/\">Devlog</a> &middot; <a href=\"https://tront.xyz/discord/\">Discord</a> &middot; <a href=\"https://github.com/TrentSterling/text2pdf\">Source on GitHub</a> &middot; <a href=\"https://tront.xyz/\">tront.xyz</a>",
+  "jsonLd": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"SoftwareApplication\", \"name\": \"Text2PDF\", \"alternateName\": [\"Text2PDF by Tront\"], \"url\": \"https://tront.xyz/text2pdf/\", \"description\": \"Offline text editor that exports to PDF, entirely in your browser.\", \"author\": {\"@type\": \"Person\", \"name\": \"Trent Sterling\", \"alternateName\": \"Tront\", \"url\": \"https://tront.xyz/\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tront\", \"url\": \"https://tront.xyz/\"}, \"isAccessibleForFree\": true, \"offers\": {\"@type\": \"Offer\", \"price\": \"0\", \"priceCurrency\": \"USD\"}, \"applicationCategory\": \"DeveloperApplication\", \"operatingSystem\": \"Web browser\"}</script>",
+  "scripts": [
+    "0fd73db286a2b7c017a65e74faf96e75ba00e4ec9c9a5d4ef84bda7bbd949462",
+    "969df07de033ddc1151d4237108439bf6a6ffd8349fddb73aa418302bcd561cd",
+    "d0a1bab22ff79c8297060530036c9628220209dfc9149fbcce8bf7a644911a55"
+  ],
+  "styles": [
+    "f38293826c370ee611c977b7f7de19c9a01d410fa496eca288740ecad7147318"
+  ],
+  "videos": [],
+  "surfaceAttributes": [
+    "id=\"editor\""
+  ],
+  "sharedMerge": "5c22da598774e04d2bc854850a8e72b3a7fdb66f"
+}
